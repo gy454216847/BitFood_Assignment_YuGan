@@ -1,0 +1,24 @@
+2023-04-19 14:53:20,883 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Open(58) | Open Browser: https://au-shopv5.uat.bdirectcloud.net/
+2023-04-19 14:53:24,814 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.MaxWindow(305) | Set max window
+2023-04-19 14:53:25,108 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: BID384964
+2023-04-19 14:53:25,336 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: YuGanTest3
+2023-04-19 14:53:27,691 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Click(349) | Click element:id=submitBtn
+2023-04-19 14:53:28,837 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: cheese
+2023-04-19 14:53:39,188 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.GetScreenShot(266) | Get Screenshot
+2023-04-19 14:53:39,435 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Quit(338) | Quit the browser
+2023-04-19 14:58:39,503 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Open(58) | Open Browser: https://au-shopv5.uat.bdirectcloud.net/
+2023-04-19 14:58:43,742 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.MaxWindow(305) | Set max window
+2023-04-19 14:58:44,042 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: BID384964
+2023-04-19 14:58:44,234 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: YuGanTest3
+2023-04-19 14:58:47,361 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Click(349) | Click element:id=submitBtn
+2023-04-19 14:58:48,699 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: cheese
+2023-04-19 14:58:52,854 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Quit(338) | Quit the browser
+2023-04-19 14:58:52,869 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Open(58) | Open Browser: https://au-shopv5.uat.bdirectcloud.net/
+2023-04-19 14:58:55,519 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.MaxWindow(305) | Set max window
+2023-04-19 14:58:55,758 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: BID384964
+2023-04-19 14:58:55,961 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: YuGanTest3
+2023-04-19 14:58:57,873 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Click(349) | Click element:id=submitBtn
+2023-04-19 14:58:59,101 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: 160640
+2023-04-19 14:59:00,181 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Click(349) | Click element:css=.hidden-mobile:nth-child(3) .btn > .ng-scope
+2023-04-19 14:59:00,294 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Click(349) | Click element:class=trolley-tab
+2023-04-19 14:59:01,082 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Quit(338) | Quit the browser

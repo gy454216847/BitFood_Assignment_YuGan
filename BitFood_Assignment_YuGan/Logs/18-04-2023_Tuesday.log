@@ -1,0 +1,16 @@
+2023-04-18 23:44:18,128 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Open(58) | Open Browser: https://au-shopv5.uat.bdirectcloud.net/
+2023-04-18 23:44:21,089 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.MaxWindow(305) | Set max window
+2023-04-18 23:44:21,349 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: BID384964
+2023-04-18 23:44:21,559 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: YuGanTest3
+2023-04-18 23:44:23,731 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Click(349) | Click element:id=submitBtn
+2023-04-18 23:44:25,070 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: cheese
+2023-04-18 23:44:27,792 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Quit(338) | Quit the browser
+2023-04-18 23:44:27,805 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Open(58) | Open Browser: https://au-shopv5.uat.bdirectcloud.net/
+2023-04-18 23:44:30,831 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.MaxWindow(305) | Set max window
+2023-04-18 23:44:31,048 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: BID384964
+2023-04-18 23:44:31,243 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: YuGanTest3
+2023-04-18 23:44:32,772 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Click(349) | Click element:id=submitBtn
+2023-04-18 23:44:34,305 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Type(375) | Type the element with: 160640
+2023-04-18 23:44:35,336 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Click(349) | Click element:css=.hidden-mobile:nth-child(3) .btn > .ng-scope
+2023-04-18 23:44:35,454 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Click(349) | Click element:class=trolley-tab
+2023-04-18 23:44:35,797 INFO [NonParallelWorker] BitFood_Assignment_YuGan.Core.CommonWeb.Quit(338) | Quit the browser
